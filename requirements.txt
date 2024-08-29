@@ -1,0 +1,4 @@
+opencv-python~=4.9.0.80
+geopy~=2.4.1
+numpy~=1.26.4
+keras~=2.15.0
