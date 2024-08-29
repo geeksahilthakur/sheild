@@ -69,7 +69,7 @@ We believe that SHEild has the potential to create real change, but we can't do 
    ```
 3. Run the model:
    ```bash
-   python SHEild.py
+   python main.py
    ```
 
 ## 📈 Model Performance
