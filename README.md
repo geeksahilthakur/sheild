@@ -40,8 +40,6 @@ The model is trained on a dataset of 3000 images, equally divided between positi
 https://github.com/user-attachments/assets/5de3b07f-1a53-4c68-89dc-a6e5b3bf2a60
 
 
-*Click on the image above to watch a demonstration of SHEild in action.*
-
 ## 🌟 Join Us in Making a Difference
 We believe that SHEild has the potential to create real change, but we can't do it alone. We invite developers, engineers, and contributors from around the world to join us in this mission. By working together, we can enhance SHEild’s capabilities, expand its reach, and ultimately reduce the number of crimes against women.
 
