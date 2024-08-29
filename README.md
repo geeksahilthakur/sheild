@@ -61,7 +61,7 @@ We believe that SHEild has the potential to create real change, but we can't do 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SHEild.git
+   git clone [https://github.com/geeksahilthakur/sheild]
    ```
 2. Install dependencies:
    ```bash
