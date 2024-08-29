@@ -1,11 +1,3 @@
-Sample video :
-
-
-
-
-https://github.com/user-attachments/assets/5de3b07f-1a53-4c68-89dc-a6e5b3bf2a60
-
-
 
 ---
 
@@ -14,7 +6,7 @@ https://github.com/user-attachments/assets/5de3b07f-1a53-4c68-89dc-a6e5b3bf2a60
 ## 🚨 Project Overview
 **SHEild** is an open-source, non-profit initiative dedicated to creating a safer environment for women in workplaces and society. By leveraging advanced machine learning and computer vision technologies, SHEild detects incidents of sexual harassment in real-time via CCTV cameras, automatically generating reports that are sent to the nearest authorities for swift action.
 
-**SHEild** was started by Sahil Thakur, Pranav Sharma, and Karanjot Singh Malhotra, who share a common vision of utilizing technology to ensure women’s safety and empower their contributions to society.
+**SHEild** was started by Sahil Thakur, Pranav Sharma, and Karanjot Singh Malhotra, Ashish , Sneha , Vimal Thakur who share a common vision of utilizing technology to ensure women’s safety and empower their contributions to society.
 
 ## 📝 Problem Statement
 Women play a critical role in every sector of society, contributing to fields such as healthcare, technology, education, and beyond. However, the reality is stark: data from 2018 to 2021 reveals that 27,000 to 161,000 cases of sexual harassment in workplaces were officially reported. The true number is likely much higher, as many cases go unreported due to fear of judgment or other societal pressures.
@@ -45,7 +37,8 @@ Women are the backbone of our society, making significant contributions in every
 The model is trained on a dataset of 3000 images, equally divided between positive cases (sexual harassment) and negative cases. This balanced dataset ensures the model's accuracy in distinguishing between harmful and non-harmful behavior.
 
 ## 🎥 Demonstration Video
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+https://github.com/user-attachments/assets/5de3b07f-1a53-4c68-89dc-a6e5b3bf2a60
+
 
 *Click on the image above to watch a demonstration of SHEild in action.*
 
