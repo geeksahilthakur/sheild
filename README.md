@@ -84,7 +84,7 @@ We are continuously working to improve SHEild’s performance. Current metrics i
 We welcome contributions of all kinds! Whether you are a developer, data scientist, or simply someone passionate about making a difference, your help is invaluable. Please fork this repository, submit a pull request, or open an issue to get started.
 
 ## 📧 Contact
-For any queries, support, or to discuss potential contributions, feel free to reach out at [karanjot032004@gmail.com](mailto:karanjot032004@gmail.com).
+For any queries, support, or to discuss potential contributions, feel free to reach out at [itssahilthakur@gmail.com](mailto:itssahilthakur@gmail.com).
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
