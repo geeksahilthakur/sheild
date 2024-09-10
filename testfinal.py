@@ -18,7 +18,7 @@ class_names = open("labels.txt", "r").readlines()
 
 def send_email(image_path, video_path, current_time, location_details):
     from_email = "info.shield112@gmail.com"
-    password = "foad ahkk sgrr zqwk"
+    password = "m nhi dunga"
     to_email = "itssahilthakur@gmail.com"
 
     msg = MIMEMultipart()
