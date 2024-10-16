@@ -1,3 +1,4 @@
+import os
 from keras.models import load_model
 import cv2
 import numpy as np
@@ -10,15 +11,23 @@ from email.mime.base import MIMEBase
 from email import encoders
 import threading
 
+# Ensure print options for numpy
 np.set_printoptions(suppress=True)
+
+# Load pre-trained model and class names
 model = load_model("keras_model.h5", compile=True)
 class_names = open("labels.txt", "r").readlines()
 
+# Send email function with environment variables
 def send_email(image_path, current_time, location_details):
-    from_email = "info.shield112@gmail.com"
-    password = "m ni de rha"
-    to_email = "itssahilthakur@gmail.com"
+    from_email = os.getenv("FROM_EMAIL")
+    password = os.getenv("EMAIL_PASSWORD")
+    to_email = os.getenv("TO_EMAIL")
 
+    if not from_email or not password:
+        print("Email credentials not found. Set environment variables for FROM_EMAIL and EMAIL_PASSWORD, TO_EMAIL")
+        return
+        
     msg = MIMEMultipart()
     msg['From'] = from_email
     msg['To'] = to_email
